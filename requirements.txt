@@ -1,0 +1,2 @@
+fastapi==std
+uvicron==std
